@@ -1,0 +1,7 @@
+README.md
+setup.py
+PackageZeki/__init__.py
+PackageZeki.egg-info/PKG-INFO
+PackageZeki.egg-info/SOURCES.txt
+PackageZeki.egg-info/dependency_links.txt
+PackageZeki.egg-info/top_level.txt
